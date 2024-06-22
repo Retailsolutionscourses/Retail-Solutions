@@ -16,7 +16,6 @@
             color: #fff;
             padding: 1rem 0;
             text-align: center;
-            position: relative;
         }
         nav {
             background-color: #444;
@@ -60,9 +59,6 @@
             text-align: center;
             padding: 1rem 0;
             margin-top: 2rem; /* Add margin-top for spacing */
-            position: fixed;
-            width: 100%;
-            bottom: 0;
         }
         .video-container {
             margin: 1rem 0;
@@ -90,6 +86,19 @@
             color: white;
             padding: 10px;
             border-radius: 5px;
+        }
+        @media (max-width: 768px) {
+            nav a {
+                float: none;
+                display: block;
+                text-align: left;
+            }
+            .container {
+                padding: 1rem;
+            }
+            footer {
+                padding: 0.5rem 0;
+            }
         }
     </style>
 </head>
