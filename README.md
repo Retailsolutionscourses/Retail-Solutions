@@ -18,13 +18,6 @@
             text-align: center;
             position: relative;
         }
-        header img {
-            position: absolute;
-            left: 10px;
-            top: 10px;
-            width: 50px;
-            height: auto;
-        }
         nav {
             background-color: #444;
             overflow: hidden;
@@ -102,7 +95,6 @@
 </head>
 <body>
     <header>
-        <img src="YOUR_LOGO_URL_HERE" alt="CCFA Technique Logo">
         <h1>Merchandise Planning Course</h1>
         <p>By Abdelrhman Khalil and Ahmed Motawaa</p>
     </header>
