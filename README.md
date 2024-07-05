@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,6 +17,12 @@
             padding: 1rem 0;
             text-align: center;
             position: relative;
+        }
+        header img {
+            width: 100px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }
         nav {
             background-color: #444;
@@ -110,10 +116,7 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Retail Solutions</h1>
-    </header>
-
+    
     <nav>
         <a href="#about">About</a>
         <a href="#current-course">Current Course (Merchandise Planning)</a>
