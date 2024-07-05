@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Merchandise Planning Course by Abdelrhman Khalil and Ahmed Motawaa</title>
+    <title>Retail Solutions</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,6 +16,13 @@
             color: #fff;
             padding: 1rem 0;
             text-align: center;
+            position: relative;
+        }
+        header img {
+            width: 100px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }
         nav {
             background-color: #444;
@@ -44,11 +51,17 @@
         #about {
             background-color: #e0f7fa; /* Light cyan background */
         }
+        #current-course {
+            background-color: #ffe0b2; /* Light orange background */
+        }
         #video {
             background-color: #fce4ec; /* Light pink background */
         }
         #course-details {
             background-color: #fff3e0; /* Light orange background */
+        }
+        #learning-objectives {
+            background-color: #e0f2f1; /* Light green background */
         }
         #contact {
             background-color: #e8f5e9; /* Light green background */
@@ -104,25 +117,59 @@
 </head>
 <body>
     <header>
-        <h1>Merchandise Planning Course</h1>
-        <p>By Abdelrhman Khalil and Ahmed Motawaa</p>
+        <img src="https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU" alt="Retail Solutions Logo">
+        <h1>Retail Solutions</h1>
     </header>
 
     <nav>
         <a href="#about">About</a>
+        <a href="#current-course">Current Course (Merchandise Planning)</a>
         <a href="#video">Video</a>
         <a href="#course-details">Course Details</a>
+        <a href="#learning-objectives">Course Learning Objectives</a>
         <a href="#contact">Contact</a>
     </nav>
 
     <div class="container">
         <section id="about" class="section">
             <h2>About Us</h2>
-            <h3>Abdelrhman Khalil</h3>
-            <p>Abdelrhman Khalil is a seasoned professional in supply chain and inventory management with extensive experience in developing trade marketing plans, managing vendor relationships, and implementing digital strategies in sales. He holds a CSCP certification from APICS and a Bachelor of Pharmacy from Cairo University. With advanced proficiency in tools like Microsoft Excel, Power BI, Tableau, and PowerPoint, Abdelrhman brings a wealth of knowledge and expertise to his merchandise planning course.</p>
+            <p>"Retail Solutions" is a premier training and consulting body established in Canada by industry veterans with over 35 years of combined experience in retail and supply chain management. Specializing in transforming retail operations through meticulous merchandise planning, supply chain optimization, and cutting-edge analytics, Retail Solutions serves as a strategic partner to retail giants and emerging businesses alike.</p>
+
+            <p>"Retail Solutions" was established with a vision to bridge the gap between operational efficiency and market demands. By leveraging deep industry knowledge and advanced analytical tools, "Retail Solutions" offers comprehensive services that include assortment planning, demand forecasting, and inventory management. Their innovative approaches have redefined store clustering, merchandise planning, and space utilization, ensuring that each client can achieve maximum sales potential and customer satisfaction.</p>
+
+            <p>"Retail Solutions" is known for its commitment to excellence, which is reflected in its leadership’s significant achievements and acknowledgments within the industry. The team at "Retail Solutions" consistently drives growth and sustainability for their clients by applying a strategic business acumen, attention to detail, and a proactive stance in all endeavours. Whether it’s leading transformational projects or aligning supply chain processes with business strategies, "Retail Solutions" delivers results that propel retail businesses forward in today's competitive market.</p>
+        </section>
+
+        <section id="current-course" class="section">
+            <h2>Current Course (Merchandise Planning)</h2>
+            <p>Are you tasked with overseeing a vast network of retail stores, each unique in its layout, customer demographics, and performance metrics? Do you struggle with the complexities of applying uniform planning strategies across such diverse settings? Are you aiming to centralize your demand and supply planning processes and seeking ways to optimize your financial spending on inventory and system resources?</p>
             
-            <h3>Ahmed Motawaa</h3>
-            <p>Ahmed Motawaa is a seasoned professional with over eight years of experience in the largest retail pharmacy chain in the MENA region. Starting as a Community Pharmacist in 2006, his passion for business led him to develop his skills in Sales and Marketing, and eventually, he became a Forecast Planner in 2010. By 2014, he was promoted to Merchandise Planning Manager, overseeing a business with annual sales exceeding 450 million USD. His contributions earned him a special award of excellence in 2015. Recently relocated to Canada, Ahmed seeks to further his career with a Graduate Diploma in Business Administration from John Molson School of Business, aiming to combine his extensive experience in retail planning with a solid academic foundation in business administration.</p>
+            <p>"Retail Solutions" is introducing a transformative course designed to equip you with the proficiency in the Merchandise Planning, essential for any retail business seeking to refine their end-to-end planning cycle.</p>
+
+            <p>This course promises a deep dive into strategic methodologies that will enable you to:</p>
+            <ul>
+                <li>Tailor your product categorization to better align with evolving customer behaviour.</li>
+                <li>Effectively cluster your stores into manageable groups, simplifying and enhancing your planning activities.</li>
+                <li>Construct precise inventory frameworks for each product category, which will govern your assortment selection processes.</li>
+                <li>Identify the ideal product assortment for each store and determine the optimal inventory levels for individual items.</li>
+                <li>Establish minimum display quantities for items at each store and develop strong replenishment parameters to maintain consistent stock levels.</li>
+                <li>Manage extraordinary items and unique store challenges within established inventory norms.</li>
+                <li>Address space constraints and special project needs in a methodical and organized manner.</li>
+                <li>Lay the groundwork for a robust system to assess store performance, utilizing weighted KPIs to genuinely understand sales impacts.</li>
+            </ul>
+
+            <p>Further, the course provides detailed guidance on constructing an Assortment Grid from the ground up, incorporating:</p>
+            <ul>
+                <li>Evaluations of historical sales data.</li>
+                <li>Integration with overarching category strategies and profitability objectives.</li>
+                <li>Strategic grouping of stores to facilitate tailored inventory decisions.</li>
+                <li>Calibration of ideal inventory quantities for each item in every store.</li>
+                <li>Determination of essential display quantities for each item, tailored to each store’s specific needs.</li>
+            </ul>
+
+            <p>“Retail Solutions” offers you the strategic tools and insights necessary to effectively manage and optimize your retail operations, ensuring that each store operates at peak efficiency and profitability.</p>
+
+            <p>Join us to transform your approach to retail management and planning, setting new standards of excellence in your organization.</p>
         </section>
 
         <section id="video" class="section">
@@ -147,14 +194,29 @@
             <p>Explore the principles of category management and how it ties into effective assortment planning.</p>
         </section>
 
+        <section id="learning-objectives" class="section">
+            <h2>Course Learning Objectives</h2>
+            <ul>
+                <li>Master the fundamentals of Retail Merchandise Planning and learn how to apply the unique CCFA technique.</li>
+                <li>Link Category Management to Merchandise Planning, for a more targeted and customer-centric approach.</li>
+                <li>Gain a deep understanding of the store clustering process and how it can be effectively used to optimize retail operations.</li>
+                <li>Optimize inventory levels through strategic framework development, to control the process of building the assortment.</li>
+                <li>Get hands-on experience with real-world scenarios that teach how to optimize product assortment.</li>
+                <li>Learn how to determine the optimum inventory per item per store as well as the optimum display quantity.</li>
+                <li>Explore ways to manage exceptional items and exceptional stores within a defined category inventory target.</li>
+                <li>Be the company expert who can handle space limitations and special activities, in a systematic and structured way.</li>
+                <li>Develop a solid base to measure store availability, based on weighted KPIs that show the real impact on sales performance.</li>
+            </ul>
+        </section>
+
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>If you have any questions or would like to learn more about the course, please reach out via email at <a href="mailto:abdelrhman.khalil@example.com">abdelrhman.khalil@example.com</a>.</p>
+            <p>If you have any questions or would like to learn more about the course, please reach out via email at <a href="mailto:retailsolutionscourses@gmail.com">retailsolutionscourses@gmail.com</a>.</p>
         </section>
     </div>
 
     <footer>
-        <p>&copy; 2024 Abdelrhman Khalil and Ahmed Motawaa. All rights reserved.</p>
+        <p>&copy; 2024 Retail Solutions. All rights reserved.</p>
     </footer>
 </body>
 </html>
