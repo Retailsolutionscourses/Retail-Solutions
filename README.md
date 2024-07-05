@@ -18,12 +18,6 @@
             text-align: center;
             position: relative;
         }
-        header img {
-            width: 100px;
-            height: auto;
-            display: block;
-            margin: 0 auto;
-        }
         nav {
             background-color: #444;
             overflow: hidden;
@@ -117,7 +111,6 @@
 </head>
 <body>
     <header>
-        <img src="[https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU](https://drive.google.com/uc?export=view&id=FILE_ID)" alt="Retail Solutions Logo">
         <h1>Retail Solutions</h1>
     </header>
 
