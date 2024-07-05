@@ -118,8 +118,8 @@
         <a href="#about">About</a>
         <a href="#current-course">Current Course (Merchandise Planning)</a>
         <a href="#video">Video</a>
-        <a href="#course-details">Course Details</a>
         <a href="#learning-objectives">Course Learning Objectives</a>
+        <a href="#course-details">Course Details</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -172,6 +172,21 @@
             </div>
         </section>
 
+        <section id="learning-objectives" class="section">
+            <h2>Course Learning Objectives</h2>
+            <ul>
+                <li>Master the fundamentals of Retail Merchandise Planning and learn how to apply the unique CCFA technique.</li>
+                <li>Link Category Management to Merchandise Planning, for a more targeted and customer-centric approach.</li>
+                <li>Gain a deep understanding of the store clustering process and how it can be effectively used to optimize retail operations.</li>
+                <li>Optimize inventory levels through strategic framework development, to control the process of building the assortment.</li>
+                <li>Get hands-on experience with real-world scenarios that teach how to optimize product assortment.</li>
+                <li>Learn how to determine the optimum inventory per item per store as well as the optimum display quantity.</li>
+                <li>Explore ways to manage exceptional items and exceptional stores within a defined category inventory target.</li>
+                <li>Be the company expert who can handle space limitations and special activities, in a systematic and structured way.</li>
+                <li>Develop a solid base to measure store availability, based on weighted KPIs that show the real impact on sales performance.</li>
+            </ul>
+        </section>
+
         <section id="course-details" class="section">
             <h2>Course Details</h2>
             <h3>Introduction to “CCFA technique” of Merchandise Planning</h3>
@@ -191,21 +206,6 @@
             
             <h3>Execution and the way forward</h3>
             <p>Study how to realize the discussed CCFA ideas when it come to real business execution. In addition to managing the exceptions that may be seen according to the business nature, either special items, special stores, or special considerations that satisfy the company strategic & tactical decisions.</p>
-        </section>
-
-        <section id="learning-objectives" class="section">
-            <h2>Course Learning Objectives</h2>
-            <ul>
-                <li>Master the fundamentals of Retail Merchandise Planning and learn how to apply the unique CCFA technique.</li>
-                <li>Link Category Management to Merchandise Planning, for a more targeted and customer-centric approach.</li>
-                <li>Gain a deep understanding of the store clustering process and how it can be effectively used to optimize retail operations.</li>
-                <li>Optimize inventory levels through strategic framework development, to control the process of building the assortment.</li>
-                <li>Get hands-on experience with real-world scenarios that teach how to optimize product assortment.</li>
-                <li>Learn how to determine the optimum inventory per item per store as well as the optimum display quantity.</li>
-                <li>Explore ways to manage exceptional items and exceptional stores within a defined category inventory target.</li>
-                <li>Be the company expert who can handle space limitations and special activities, in a systematic and structured way.</li>
-                <li>Develop a solid base to measure store availability, based on weighted KPIs that show the real impact on sales performance.</li>
-            </ul>
         </section>
 
         <section id="contact" class="section">
