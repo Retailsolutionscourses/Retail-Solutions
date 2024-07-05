@@ -28,19 +28,19 @@
             color: #fff;
             text-align: center;
             padding: 14px 16px;
-            text-decoration: none;
+            text-decoration: none.
         }
         nav a:hover {
             background-color: #ddd;
-            color: black;
+            color: black.
         }
         .container {
-            padding: 2rem;
+            padding: 2rem.
         }
         .section {
             margin-bottom: 1rem;
             padding: 1rem;
-            border-radius: 5px;
+            border-radius: 5px.
         }
         #about {
             background-color: #e0f7fa; /* Light cyan background */
@@ -70,7 +70,7 @@
         .video-container {
             margin: 1rem 0;
             max-width: 100%;
-            height: auto;
+            height: auto.
         }
         .video-responsive {
             position: relative;
@@ -78,7 +78,7 @@
             height: 0;
             overflow: hidden;
             max-width: 100%;
-            background: #000;
+            background: #000.
         }
         .video-responsive iframe {
             position: absolute;
@@ -86,25 +86,25 @@
             left: 0;
             width: 100%;
             height: 100%;
-            border: 0;
+            border: 0.
         }
         h2, h3 {
             background-color: #000; /* Black background */
             color: white;
             padding: 10px;
-            border-radius: 5px;
+            border-radius: 5px.
         }
         @media (max-width: 768px) {
             nav a {
                 float: none;
                 display: block;
-                text-align: left;
+                text-align: left.
             }
             .container {
-                padding: 1rem;
+                padding: 1rem.
             }
             footer {
-                padding: 0.5rem 0;
+                padding: 0.5rem 0.
             }
         }
     </style>
@@ -168,23 +168,29 @@
         <section id="video" class="section">
             <h2>Course Video</h2>
             <div class="video-responsive">
-                <iframe src="https://drive.google.com/file/d/1Xb4CbuOdoothFRcBxlYd4_WnZ7nEuW5h/preview" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://drive.google.com/uc?export=view&id=1Xb4CbuOdoothFRcBxlYd4_WnZ7nEuW5h" frameborder="0" allowfullscreen></iframe>
             </div>
         </section>
 
         <section id="course-details" class="section">
             <h2>Course Details</h2>
-            <h3>Introduction to Merchandise Planning</h3>
-            <p>This course provides a comprehensive overview of merchandise planning, including store clustering, item store ranging processes, and the linkage between category management and assortment planning.</p>
+            <h3>Introduction to “CCFA technique” of Merchandise Planning</h3>
+            <p>This course provides a comprehensive overview of “CCFA technique” of merchandise planning, which provides the linkage between category management and assortment planning. It includes item categorization approach, store clustering process, inventory frame determination, and standard way of assortment selection followed by how to execute explained ideas into business actions.</p>
+            
+            <h3>Item Categorization</h3>
+            <p>Explore the principles of category management and how it ties into effective assortment planning.</p>
             
             <h3>Store Clustering</h3>
             <p>Learn how to group stores based on similar characteristics to optimize inventory management and sales strategies.</p>
             
-            <h3>Item Store Ranging</h3>
-            <p>Understand the process of determining which items to stock in which stores to meet consumer demand and maximize sales.</p>
+            <h3>Inventory Frame</h3>
+            <p>Create a boarder to the defined clusters in order to build a robust assortment while operating with optimal inventory level all-over the year or the planning season. Therefore, avoid fluctuation in inventory as well as negative impact on the customer satisfaction.</p>
             
-            <h3>Category Management</h3>
-            <p>Explore the principles of category management and how it ties into effective assortment planning.</p>
+            <h3>Assortment Selection</h3>
+            <p>Understand the process of determining which items to be ranged in which stores to meet the consumer demand and maximize sales opportunity within a controlled inventory target.</p>
+            
+            <h3>Execution and the way forward</h3>
+            <p>Study how to realize the discussed CCFA ideas when it come to real business execution. In addition to managing the exceptions that may be seen according to the business nature, either special items, special stores, or special considerations that satisfy the company strategic & tactical decisions.</p>
         </section>
 
         <section id="learning-objectives" class="section">
