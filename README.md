@@ -117,7 +117,7 @@
 </head>
 <body>
     <header>
-        <img src="https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU" alt="Retail Solutions Logo">
+        <img src="[https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU](https://drive.google.com/uc?export=view&id=FILE_ID)" alt="Retail Solutions Logo">
         <h1>Retail Solutions</h1>
     </header>
 
