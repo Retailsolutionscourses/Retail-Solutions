@@ -120,7 +120,7 @@
 <body>
     <header>
         <!-- Add your logo URL here -->
-        <img src="https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU" alt="Retail Solutions Logo">
+        <img src="https://drive.google.com/uc?id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU" alt="Retail Solutions Logo">
         <h1>Retail Solutions</h1>
     </header>
 
