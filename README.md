@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,8 +48,26 @@
             padding: 1rem;
             border-radius: 5px;
         }
-        #about, #current-course, #video, #course-details, #learning-objectives, #udemy, #contact {
-            background-color: #fff; /* Light background for content sections */
+        #about {
+            background-color: #e0f7fa;
+        }
+        #current-course {
+            background-color: #ffe0b2;
+        }
+        #video {
+            background-color: #fce4ec;
+        }
+        #course-details {
+            background-color: #fff3e0;
+        }
+        #learning-objectives {
+            background-color: #e0f2f1;
+        }
+        #udemy {
+            background-color: #d1c4e9;
+        }
+        #contact {
+            background-color: #e8f5e9;
         }
         footer {
             background-color: #333;
@@ -56,6 +75,33 @@
             text-align: center;
             padding: 1rem 0;
             margin-top: 2rem;
+        }
+        .video-container {
+            margin: 1rem 0;
+            max-width: 100%;
+            height: auto;
+        }
+        .video-responsive {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+        }
+        .video-responsive iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        h2, h3 {
+            background-color: #000;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
         }
         @media (max-width: 768px) {
             nav a {
@@ -74,7 +120,7 @@
 </head>
 <body>
     <header>
-        <img src="https://i.imgur.com/Cn30OOg.jpg" alt="Retail Solutions Logo" style="width: 150px; height: auto;">
+        <img src="https://i.imgur.com/Cn30OOg.jpg" alt="Retail Solutions Logo">
         <h1>Retail Solutions</h1>
     </header>
 
@@ -89,7 +135,7 @@
     </nav>
 
     <div class="container">
-        <!-- Your existing sections -->
+        <!-- All other sections remain as previously defined -->
     </div>
 
     <footer>
