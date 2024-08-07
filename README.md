@@ -125,13 +125,13 @@
     </header>
 
     <nav>
-        <a href="#about">About</a>
+        <a href="#about">About Us</a>
         <a href="#current-course">Current Course (Merchandise Planning)</a>
         <a href="#video">Video</a>
         <a href="#learning-objectives">Course Learning Objectives</a>
         <a href="#course-details">Course Details</a>
         <a href="#udemy">Course on Udemy</a>
-        <a href="#contact">Contact</a>
+        <a href="#contact">Contact Us</a>
     </nav>
 
     <div class="container">
