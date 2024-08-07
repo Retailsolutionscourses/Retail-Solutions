@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -168,7 +168,7 @@
         <section id="video" class="section">
             <h2>Course Video</h2>
             <div class="video-responsive">
-                <iframe src="https://drive.google.com/uc?export=view&id=1Xb4CbuOdoothFRcBxlYd4_WnZ7nEuW5h" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://drive.google.com/uc?export=view&id=1GWVB5WC2GjNWCkdlgD8bSkcYEd3iQey9" frameborder="0" allowfullscreen></iframe>
             </div>
         </section>
 
