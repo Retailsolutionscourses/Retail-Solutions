@@ -43,29 +43,29 @@
             border-radius: 5px;
         }
         #about {
-            background-color: #e0f7fa; /* Light cyan background */
+            background-color: #e0f7fa;
         }
         #current-course {
-            background-color: #ffe0b2; /* Light orange background */
+            background-color: #ffe0b2;
         }
         #video {
-            background-color: #fce4ec; /* Light pink background */
+            background-color: #fce4ec;
         }
         #course-details {
-            background-color: #fff3e0; /* Light orange background */
+            background-color: #fff3e0;
         }
         #learning-objectives {
-            background-color: #e0f2f1; /* Light green background */
+            background-color: #e0f2f1;
         }
         #contact {
-            background-color: #e8f5e9; /* Light green background */
+            background-color: #e8f5e9;
         }
         footer {
             background-color: #333;
             color: #fff;
             text-align: center;
             padding: 1rem 0;
-            margin-top: 2rem; /* Add margin-top for spacing */
+            margin-top: 2rem;
         }
         .video-container {
             margin: 1rem 0;
@@ -74,7 +74,7 @@
         }
         .video-responsive {
             position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            padding-bottom: 56.25%;
             height: 0;
             overflow: hidden;
             max-width: 100%;
@@ -89,7 +89,7 @@
             border: 0;
         }
         h2, h3 {
-            background-color: #000; /* Black background */
+            background-color: #000;
             color: white;
             padding: 10px;
             border-radius: 5px;
@@ -127,18 +127,14 @@
         <section id="about" class="section">
             <h2>About Us</h2>
             <p>"Retail Solutions" is a premier training and consulting body established in Canada by industry veterans with over 35 years of combined experience in retail and supply chain management. Specializing in transforming retail operations through meticulous merchandise planning, supply chain optimization, and cutting-edge analytics, Retail Solutions serves as a strategic partner to retail giants and emerging businesses alike.</p>
-
             <p>"Retail Solutions" was established with a vision to bridge the gap between operational efficiency and market demands. By leveraging deep industry knowledge and advanced analytical tools, "Retail Solutions" offers comprehensive services that include assortment planning, demand forecasting, and inventory management. Their innovative approaches have redefined store clustering, merchandise planning, and space utilization, ensuring that each client can achieve maximum sales potential and customer satisfaction.</p>
-
             <p>"Retail Solutions" is known for its commitment to excellence, which is reflected in its leadership’s significant achievements and acknowledgments within the industry. The team at "Retail Solutions" consistently drives growth and sustainability for their clients by applying a strategic business acumen, attention to detail, and a proactive stance in all endeavours. Whether it’s leading transformational projects or aligning supply chain processes with business strategies, "Retail Solutions" delivers results that propel retail businesses forward in today's competitive market.</p>
         </section>
 
         <section id="current-course" class="section">
             <h2>Current Course (Merchandise Planning)</h2>
             <p>Are you tasked with overseeing a vast network of retail stores, each unique in its layout, customer demographics, and performance metrics? Do you struggle with the complexities of applying uniform planning strategies across such diverse settings? Are you aiming to centralize your demand and supply planning processes and seeking ways to optimize your financial spending on inventory and system resources?</p>
-            
             <p>"Retail Solutions" is introducing a transformative course designed to equip you with the proficiency in the Merchandise Planning, essential for any retail business seeking to refine their end-to-end planning cycle.</p>
-
             <p>This course promises a deep dive into strategic methodologies that will enable you to:</p>
             <ul>
                 <li>Tailor your product categorization to better align with evolving customer behaviour.</li>
@@ -150,7 +146,6 @@
                 <li>Address space constraints and special project needs in a methodical and organized manner.</li>
                 <li>Lay the groundwork for a robust system to assess store performance, utilizing weighted KPIs to genuinely understand sales impacts.</li>
             </ul>
-
             <p>Further, the course provides detailed guidance on constructing an Assortment Grid from the ground up, incorporating:</p>
             <ul>
                 <li>Evaluations of historical sales data.</li>
@@ -159,16 +154,14 @@
                 <li>Calibration of ideal inventory quantities for each item in every store.</li>
                 <li>Determination of essential display quantities for each item, tailored to each store’s specific needs.</li>
             </ul>
-
             <p>“Retail Solutions” offers you the strategic tools and insights necessary to effectively manage and optimize your retail operations, ensuring that each store operates at peak efficiency and profitability.</p>
-
             <p>Join us to transform your approach to retail management and planning, setting new standards of excellence in your organization.</p>
         </section>
 
         <section id="video" class="section">
             <h2>Course Video</h2>
             <div class="video-responsive">
-                <iframe src="https://drive.google.com/uc?export=view&id=1GWVB5WC2GjNWCkdlgD8bSkcYEd3iQey9" frameborder="0" allowfullscreen></iframe>
+                <iframe src="https://drive.google.com/file/d/1GWVB5WC2GjNWCkdlgD8bSkcYEd3iQey9/preview" frameborder="0" allowfullscreen></iframe>
             </div>
         </section>
 
@@ -191,21 +184,16 @@
             <h2>Course Details</h2>
             <h3>Introduction to “CCFA technique” of Merchandise Planning</h3>
             <p>This course provides a comprehensive overview of “CCFA technique” of merchandise planning, which provides the linkage between category management and assortment planning. It includes item categorization approach, store clustering process, inventory frame determination, and standard way of assortment selection followed by how to execute explained ideas into business actions.</p>
-            
             <h3>Item Categorization</h3>
             <p>Explore the principles of category management and how it ties into effective assortment planning.</p>
-            
             <h3>Store Clustering</h3>
             <p>Learn how to group stores based on similar characteristics to optimize inventory management and sales strategies.</p>
-            
             <h3>Inventory Frame</h3>
-            <p>Create a boarder to the defined clusters in order to build a robust assortment while operating with optimal inventory level all-over the year or the planning season. Therefore, avoid fluctuation in inventory as well as negative impact on the customer satisfaction.</p>
-            
+            <p>Create a border to the defined clusters in order to build a robust assortment while operating with optimal inventory level all-over the year or the planning season. Therefore, avoid fluctuation in inventory as well as negative impact on customer satisfaction.</p>
             <h3>Assortment Selection</h3>
             <p>Understand the process of determining which items to be ranged in which stores to meet the consumer demand and maximize sales opportunity within a controlled inventory target.</p>
-            
             <h3>Execution and the way forward</h3>
-            <p>Study how to realize the discussed CCFA ideas when it come to real business execution. In addition to managing the exceptions that may be seen according to the business nature, either special items, special stores, or special considerations that satisfy the company strategic & tactical decisions.</p>
+            <p>Study how to realize the discussed CCFA ideas when it comes to real business execution. In addition to managing the exceptions that may be seen according to the business nature, either special items, special stores, or special considerations that satisfy the company strategic & tactical decisions.</p>
         </section>
 
         <section id="contact" class="section">
