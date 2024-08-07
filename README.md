@@ -17,6 +17,12 @@
             text-align: center;
             position: relative;
         }
+        header img {
+            width: 150px; /* Adjust width as needed */
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
         nav {
             background-color: #444;
             overflow: hidden;
@@ -55,6 +61,9 @@
         }
         #learning-objectives {
             background-color: #e0f2f1;
+        }
+        #udemy {
+            background-color: #d1c4e9;
         }
         #contact {
             background-color: #e8f5e9;
@@ -110,6 +119,8 @@
 </head>
 <body>
     <header>
+        <!-- Add your logo URL here -->
+        <img src="https://drive.google.com/uc?export=view&id=1DIAMZpozhBNiEhen1kugZG-AjJ8TDVhU" alt="Retail Solutions Logo">
         <h1>Retail Solutions</h1>
     </header>
 
@@ -119,6 +130,7 @@
         <a href="#video">Video</a>
         <a href="#learning-objectives">Course Learning Objectives</a>
         <a href="#course-details">Course Details</a>
+        <a href="#udemy">Course on Udemy</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -193,6 +205,12 @@
             <p>Understand the process of determining which items to be ranged in which stores to meet the consumer demand and maximize sales opportunity within a controlled inventory target.</p>
             <h3>Execution and the way forward</h3>
             <p>Study how to realize the discussed CCFA ideas when it comes to real business execution. In addition to managing the exceptions that may be seen according to the business nature, either special items, special stores, or special considerations that satisfy the company strategic & tactical decisions.</p>
+        </section>
+
+        <section id="udemy" class="section">
+            <h2>Course on Udemy</h2>
+            <p>Enroll in our comprehensive Merchandise Planning course on Udemy to gain in-depth knowledge and practical skills to excel in retail management.</p>
+            <a href="https://www.udemy.com/course/retail-solutions-merchandise-planning/?referralCode=567117A00CF504AF291D" target="_blank">View Course on Udemy</a>
         </section>
 
         <section id="contact" class="section">
