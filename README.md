@@ -213,7 +213,7 @@
             <a href="https://www.udemy.com/course/retail-solutions-merchandise-planning/?referralCode=567117A00CF504AF291D" target="_blank">View Course on Udemy</a>
         </section>
 
-       <section id="contact" class="section">
+       <section id="contacts" class="section">
     <h2>Contact</h2>
     <p>If you have inquiries or would like to learn more about the course, please reach out to Retail Solutions via <a href="mailto:retailsolutionscourses@gmail.com">retailsolutionscourses@gmail.com</a></p>
     <p>Follow us on LinkedIn for more updates and resources: <a href="https://www.linkedin.com/company/retail-solutions-courses/?viewAsMember=true" target="_blank">Retail Solutions Courses on LinkedIn</a></p>
