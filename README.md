@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,19 +27,19 @@
             color: #fff;
             text-align: center;
             padding: 14px 16px;
-            text-decoration: none.
+            text-decoration: none;
         }
         nav a:hover {
             background-color: #ddd;
-            color: black.
+            color: black;
         }
         .container {
-            padding: 2rem.
+            padding: 2rem;
         }
         .section {
             margin-bottom: 1rem;
             padding: 1rem;
-            border-radius: 5px.
+            border-radius: 5px;
         }
         #about {
             background-color: #e0f7fa; /* Light cyan background */
@@ -70,7 +69,7 @@
         .video-container {
             margin: 1rem 0;
             max-width: 100%;
-            height: auto.
+            height: auto;
         }
         .video-responsive {
             position: relative;
@@ -78,7 +77,7 @@
             height: 0;
             overflow: hidden;
             max-width: 100%;
-            background: #000.
+            background: #000;
         }
         .video-responsive iframe {
             position: absolute;
@@ -86,25 +85,25 @@
             left: 0;
             width: 100%;
             height: 100%;
-            border: 0.
+            border: 0;
         }
         h2, h3 {
             background-color: #000; /* Black background */
             color: white;
             padding: 10px;
-            border-radius: 5px.
+            border-radius: 5px;
         }
         @media (max-width: 768px) {
             nav a {
                 float: none;
                 display: block;
-                text-align: left.
+                text-align: left;
             }
             .container {
-                padding: 1rem.
+                padding: 1rem;
             }
             footer {
-                padding: 0.5rem 0.
+                padding: 0.5rem 0;
             }
         }
     </style>
