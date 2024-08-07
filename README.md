@@ -214,7 +214,7 @@
         </section>
 
        <section id="contact us" class="section">
-    <h2>Contact</h2>
+    <h2>Contact Us</h2>
     <p>If you have inquiries or would like to learn more about the course, please reach out to Retail Solutions via <a href="mailto:retailsolutionscourses@gmail.com">retailsolutionscourses@gmail.com</a></p>
     <p>Follow us on LinkedIn for more updates and resources: <a href="https://www.linkedin.com/company/retail-solutions-courses/?viewAsMember=true" target="_blank">Retail Solutions Courses on LinkedIn</a></p>
 </section>
