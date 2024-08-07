@@ -131,7 +131,7 @@
         <a href="#learning-objectives">Course Learning Objectives</a>
         <a href="#course-details">Course Details</a>
         <a href="#udemy">Course on Udemy</a>
-        <a href="#contact">Contact Us</a>
+        <a href="#contact us">Contact Us</a>
     </nav>
 
     <div class="container">
